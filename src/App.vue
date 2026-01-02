@@ -1,5 +1,5 @@
 <template>
-  <v-app class="indigo">
+  <v-app class="indigo" dark >
     <v-main>
         <nav style="padding:12px">
           <router-link to="/">Home</router-link>
